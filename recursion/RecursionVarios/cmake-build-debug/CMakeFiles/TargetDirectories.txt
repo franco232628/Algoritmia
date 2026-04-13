@@ -1,0 +1,3 @@
+C:/David/PUCP/2026-1/Algoritmos/Sesion03/RecursionVarios/cmake-build-debug/CMakeFiles/RecursionVarios.dir
+C:/David/PUCP/2026-1/Algoritmos/Sesion03/RecursionVarios/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/David/PUCP/2026-1/Algoritmos/Sesion03/RecursionVarios/cmake-build-debug/CMakeFiles/rebuild_cache.dir
