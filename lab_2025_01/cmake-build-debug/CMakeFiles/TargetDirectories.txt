@@ -1,0 +1,3 @@
+C:/Users/GRINGO/Downloads/ono1/lab_2025_01/cmake-build-debug/CMakeFiles/lab_2025_01.dir
+C:/Users/GRINGO/Downloads/ono1/lab_2025_01/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/GRINGO/Downloads/ono1/lab_2025_01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
